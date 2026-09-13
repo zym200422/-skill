@@ -1,0 +1,18 @@
+# 真实合同与隐私材料不入库
+09_合同测试/2026-09-13_微信照片合同提取与审查.md
+09_合同测试/_private/
+
+# 原始截图与本地文档
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.heic
+*.doc
+*.docx
+*.pdf
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
